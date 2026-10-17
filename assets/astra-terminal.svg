@@ -29,9 +29,9 @@
 <rect class="frame" x="1" y="1" width="998" height="873" rx="13"/>
 <path class="bg" d="M14 1H986Q999 1 999 14V56H1V14Q1 1 14 1Z"/>
 <path class="divider" d="M1 56H999"/>
-<circle cx="25" cy="28" r="5" fill="#8b949e"/>
-<circle cx="44" cy="28" r="5" fill="#8b949e"/>
-<circle cx="63" cy="28" r="5" fill="#3fb950"/>
+<circle cx="25" cy="28" r="5" fill="#28C840"/>
+<circle cx="44" cy="28" r="5" fill="#FEBC2E"/>
+<circle cx="63" cy="28" r="5" fill="#FF5F57"/>
 <text x="500" y="34" class="white" text-anchor="middle" font-size="17" font-weight="600">Terminal</text>
 <text x="974" y="32" class="muted" text-anchor="end" font-size="13">ASTRA</text>
 
