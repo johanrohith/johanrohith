@@ -1,58 +1,56 @@
 <div align="center">
 
-<img src="assets/astra-terminal-v2.svg" alt="Johan Rohith's Astra terminal introduction" width="100%" />
+<img src="assets/astra-terminal.svg" alt="Johan Rohith's Astra terminal introduction" width="100%" />
 
 </div>
 
----
+<hr/>
 
-### `/projects`
+<p><strong>SELECTED PROJECTS</strong><br/>
+<sub>A few things I've built, explored, and kept working on.</sub></p>
 
-<table>
+<table width="100%">
 <tr>
-<td width="160" valign="middle">
-<a href="https://github.com/johanrohith/forest-explorer"><img src="https://raw.githubusercontent.com/johanrohith/forest-explorer/main/assets/forest-explorer-readme-banner.svg" alt="Forest Explorer banner" width="140" height="49"/></a>
+<td width="145" valign="middle" align="left">
+<a href="https://github.com/johanrohith/forest-explorer"><img src="https://raw.githubusercontent.com/johanrohith/forest-explorer/main/assets/forest-explorer-readme-banner.svg" alt="Forest Explorer" width="125"/></a>
 </td>
 <td valign="middle">
-<strong><a href="https://github.com/johanrohith/forest-explorer">Forest Explorer ↗</a></strong><br/>
-<sub>A quiet, first-person forest to wander through.</sub>
+<sub>A quiet first-person forest to explore.</sub>
 </td>
 </tr><tr>
-<td width="160" valign="middle">
-<a href="https://eco-count.github.io/"><img src="https://raw.githubusercontent.com/johanrohith/eco-count/main/assets/eco-count-readme-banner.svg" alt="Eco Count banner" width="140" height="33"/></a>
+<td width="145" valign="middle" align="left">
+<a href="https://github.com/johanrohith/eco-count"><img src="https://raw.githubusercontent.com/johanrohith/eco-count/main/assets/eco-count-readme-banner.svg" alt="Eco Count" width="125"/></a>
 </td>
 <td valign="middle">
-<strong><a href="https://eco-count.github.io/">Eco Count ↗</a></strong><br/>
 <sub>Track plastic use and explore ways to reduce waste.</sub>
 </td>
 </tr><tr>
-<td width="160" valign="middle">
-<a href="https://github.com/johanrohith/terrawise"><img src="https://raw.githubusercontent.com/johanrohith/terrawise/main/assets/terrawise-readme-banner.svg" alt="Terrawise banner" width="140" height="33"/></a>
+<td width="145" valign="middle" align="left">
+<a href="https://github.com/johanrohith/terrawise"><img src="https://raw.githubusercontent.com/johanrohith/terrawise/main/assets/terrawise-readme-banner.svg" alt="Terrawise" width="125"/></a>
 </td>
 <td valign="middle">
-<strong><a href="https://github.com/johanrohith/terrawise">Terrawise ↗</a></strong><br/>
 <sub>Explore Indian soils, crops, and fertilisers.</sub>
 </td>
 </tr><tr>
-<td width="160" valign="middle">
-<a href="https://github.com/johanrohith/liora"><img src="https://raw.githubusercontent.com/johanrohith/liora/main/assets/readme/liora-readme-banner.svg" alt="Liora banner" width="140" height="35"/></a>
+<td width="145" valign="middle" align="left">
+<a href="https://github.com/johanrohith/liora"><img src="https://raw.githubusercontent.com/johanrohith/liora/main/assets/readme/liora-readme-banner.svg" alt="Liora" width="125"/></a>
 </td>
 <td valign="middle">
-<strong><a href="https://github.com/johanrohith/liora">Liora ↗</a></strong><br/>
 <sub>A personal environment connecting everyday tools.</sub>
 </td>
 </tr><tr>
-<td width="160" valign="middle">
-<a href="https://github.com/johanrohith/mccreloop"><img src="https://raw.githubusercontent.com/johanrohith/mccreloop/main/images/reloop-readme-banner.svg" alt="MCC ReLoop banner" width="140" height="30"/></a>
+<td width="145" valign="middle" align="left">
+<a href="https://github.com/johanrohith/mccreloop"><img src="https://raw.githubusercontent.com/johanrohith/mccreloop/main/images/reloop-readme-banner.svg" alt="MCC ReLoop" width="125"/></a>
 </td>
 <td valign="middle">
-<strong><a href="https://github.com/johanrohith/mccreloop">MCC ReLoop ↗</a></strong><br/>
-<sub>A campus reuse platform: waste less, loop more.</sub>
+<sub>A campus reuse project: waste less, loop more.</sub>
 </td>
 </tr>
 </table>
 
-### `/network`
+<hr/>
+
+<p><strong>FIND ME ELSEWHERE</strong></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-johanrohith-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/johanrohith)
 [![X](https://img.shields.io/badge/X-%40johanrohith-0d1117?style=flat&logo=x&logoColor=white)](https://x.com/johanrohith)
