@@ -6,47 +6,28 @@
 
 <hr/>
 
-<p><strong>SELECTED PROJECTS</strong><br/>
-<sub>A few things I've built, explored, and kept working on.</sub></p>
+<p align="center"><strong>SELECTED PROJECTS</strong></p>
 
-<table width="100%">
-<tr>
-<td width="145" valign="middle" align="left">
-<a href="https://github.com/johanrohith/forest-explorer"><img src="https://raw.githubusercontent.com/johanrohith/forest-explorer/main/assets/forest-explorer-readme-banner.svg" alt="Forest Explorer" width="125"/></a>
-</td>
-<td valign="middle">
-<sub>A quiet first-person forest to explore.</sub>
-</td>
-</tr><tr>
-<td width="145" valign="middle" align="left">
-<a href="https://github.com/johanrohith/eco-count"><img src="https://raw.githubusercontent.com/johanrohith/eco-count/main/assets/eco-count-readme-banner.svg" alt="Eco Count" width="125"/></a>
-</td>
-<td valign="middle">
-<sub>Track plastic use and explore ways to reduce waste.</sub>
-</td>
-</tr><tr>
-<td width="145" valign="middle" align="left">
-<a href="https://github.com/johanrohith/terrawise"><img src="https://raw.githubusercontent.com/johanrohith/terrawise/main/assets/terrawise-readme-banner.svg" alt="Terrawise" width="125"/></a>
-</td>
-<td valign="middle">
-<sub>Explore Indian soils, crops, and fertilisers.</sub>
-</td>
-</tr><tr>
-<td width="145" valign="middle" align="left">
-<a href="https://github.com/johanrohith/liora"><img src="https://raw.githubusercontent.com/johanrohith/liora/main/assets/readme/liora-readme-banner.svg" alt="Liora" width="125"/></a>
-</td>
-<td valign="middle">
-<sub>A personal environment connecting everyday tools.</sub>
-</td>
-</tr><tr>
-<td width="145" valign="middle" align="left">
-<a href="https://github.com/johanrohith/mccreloop"><img src="https://raw.githubusercontent.com/johanrohith/mccreloop/main/images/reloop-readme-banner.svg" alt="MCC ReLoop" width="125"/></a>
-</td>
-<td valign="middle">
-<sub>A campus reuse project: waste less, loop more.</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/johanrohith/forest-explorer"><kbd><img src="https://raw.githubusercontent.com/johanrohith/forest-explorer/main/assets/forest-explorer-readme-banner.svg" alt="Forest Explorer" width="100%" /></kbd></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/johanrohith/eco-count"><kbd><img src="https://raw.githubusercontent.com/johanrohith/eco-count/main/assets/eco-count-readme-banner.svg" alt="Eco Count" width="100%" /></kbd></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/johanrohith/terrawise"><kbd><img src="https://raw.githubusercontent.com/johanrohith/terrawise/main/assets/terrawise-readme-banner.svg" alt="Terrawise" width="100%" /></kbd></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/johanrohith/liora"><kbd><img src="https://raw.githubusercontent.com/johanrohith/liora/main/assets/readme/liora-readme-banner.svg" alt="Liora" width="100%" /></kbd></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/johanrohith/mccreloop"><kbd><img src="https://raw.githubusercontent.com/johanrohith/mccreloop/main/images/reloop-readme-banner.svg" alt="MCC ReLoop" width="100%" /></kbd></a>
+</p>
+
 
 <hr/>
 
