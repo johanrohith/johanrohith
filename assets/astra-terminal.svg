@@ -33,7 +33,7 @@
 <circle cx="44" cy="28" r="5" fill="#8b949e"/>
 <circle cx="63" cy="28" r="5" fill="#3fb950"/>
 <text x="500" y="34" class="white" text-anchor="middle" font-size="17" font-weight="600">Terminal</text>
-<text x="974" y="32" class="muted" text-anchor="end" font-size="13">ASTRA // SESSION 001</text>
+<text x="974" y="32" class="muted" text-anchor="end" font-size="13">ASTRA</text>
 
 <text x="28" y="90" class="green cmd typed" font-size="21" style="animation: typing 0.324s steps(27, end) 0.300s both;">johanrohith@astra:~$ whoami</text>
 <text x="28" y="120" class="white typed" font-size="21" style="animation: typing 0.220s steps(12, end) 0.784s both;">Johan Rohith</text>
