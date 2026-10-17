@@ -49,7 +49,7 @@
 <text x="28" y="392" class="white typed" font-size="21" style="animation: typing 0.288s steps(24, end) 5.804s both;">  "city":     "Chennai",</text>
 <text x="28" y="420" class="white typed" font-size="21" style="animation: typing 0.228s steps(19, end) 6.252s both;">  "country":  "IN",</text>
 <text x="28" y="448" class="white typed" font-size="21" style="animation: typing 0.336s steps(28, end) 6.640s both;">  "timezone": "Asia/Kolkata"</text>
-<text x="28" y="470" class="white typed" font-size="21" style="animation: typing 0.220s steps(1, end) 7.136s both;">}</text>
+<text x="28" y="476" class="white typed" font-size="21" style="animation: typing 0.220s steps(1, end) 7.136s both;">}</text>
 
 <text x="28" y="526" class="green cmd typed" font-size="21" style="animation: typing 0.408s steps(34, end) 7.516s both;">johanrohith@astra:~$ ls interests/</text>
 <text x="28" y="556" class="white typed" font-size="21" style="animation: typing 0.220s steps(17, end) 8.084s both;">creative-writing/</text>
