@@ -6,7 +6,7 @@
 
 <hr/>
 
-<p align="center"><strong>SELECTED PROJECTS</strong></p>
+<h2 align="center"><strong>PROJECTS</strong></h2>
 
 <p align="center">
   <a href="https://github.com/johanrohith/forest-explorer"><kbd><img src="https://raw.githubusercontent.com/johanrohith/forest-explorer/main/assets/forest-explorer-readme-banner.svg" alt="Forest Explorer" width="100%" /></kbd></a>
