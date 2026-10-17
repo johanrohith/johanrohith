@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="570" viewBox="0 0 1000 570" role="img" aria-labelledby="title desc">
   <title id="title">Johan Rohith's Astra terminal introduction</title>
-  <desc id="desc">A dark GitHub-style terminal with green commands and white output introducing Johan, his interests, web development stack, and focus.</desc>
+  <desc id="desc">A compact GitHub-dark terminal showing Johan's introduction, interests, web development stack, and focus.</desc>
   <style>
-    :root { color-scheme: dark; }
     .bg { fill: #0d1117; }
     .frame { fill: none; stroke: #30363d; stroke-width: 1.5; }
     .bar { fill: #0d1117; }
@@ -10,75 +9,89 @@
     .green { fill: #3fb950; }
     .white { fill: #f0f6fc; }
     .muted { fill: #8b949e; }
-    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }
-    .small { font-size: 12px; }
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; }
+    .small { font-size: 11px; }
     .cmd { font-weight: 600; }
-    .line { opacity: 0; animation: show-line .25s steps(1, end) forwards; }
-    .l1 { animation-delay: .25s; } .l2 { animation-delay: .85s; }
-    .l3 { animation-delay: 1.6s; } .l4 { animation-delay: 2.2s; }
-    .l5 { animation-delay: 2.55s; } .l6 { animation-delay: 2.9s; }
-    .l7 { animation-delay: 3.25s; } .l8 { animation-delay: 4.05s; }
-    .l9 { animation-delay: 4.35s; } .l10 { animation-delay: 4.65s; }
-    .l11 { animation-delay: 4.95s; } .l12 { animation-delay: 5.25s; }
-    .l13 { animation-delay: 5.55s; } .l14 { animation-delay: 6.15s; }
-    .l15 { animation-delay: 6.5s; } .l16 { animation-delay: 6.8s; }
-    .l17 { animation-delay: 7.5s; } .l18 { animation-delay: 7.85s; }
-    .l19 { animation-delay: 8.35s; } .l20 { animation-delay: 8.7s; }
-    .l21 { animation-delay: 9.3s; } .l22 { animation-delay: 9.65s; }
-    .l23 { animation-delay: 10.0s; } .l24 { animation-delay: 10.35s; }
-    .l25 { animation-delay: 10.7s; }
-    @keyframes show-line { to { opacity: 1; } }
-    .cursor { fill: #3fb950; opacity: 0; animation: appear .1s linear 10.35s forwards, blink 1s steps(2, start) 10.35s infinite, vanish .1s linear 11.1s forwards; }
+    .line { opacity: 0; animation: reveal .18s steps(1, end) forwards; }
+    .l1  { animation-delay: .20s; }
+    .l2  { animation-delay: .48s; }
+    .l3  { animation-delay: .78s; }
+    .l4  { animation-delay: 1.04s; }
+    .l5  { animation-delay: 1.22s; }
+    .l6  { animation-delay: 1.40s; }
+    .l7  { animation-delay: 1.72s; }
+    .l8  { animation-delay: 1.96s; }
+    .l9  { animation-delay: 2.14s; }
+    .l10 { animation-delay: 2.32s; }
+    .l11 { animation-delay: 2.50s; }
+    .l12 { animation-delay: 2.68s; }
+    .l13 { animation-delay: 2.86s; }
+    .l14 { animation-delay: 3.18s; }
+    .l15 { animation-delay: 3.40s; }
+    .l16 { animation-delay: 3.58s; }
+    .l17 { animation-delay: 3.90s; }
+    .l18 { animation-delay: 4.16s; }
+    .l19 { animation-delay: 4.48s; }
+    .l20 { animation-delay: 4.70s; }
+    .l21 { animation-delay: 4.88s; }
+    .l22 { animation-delay: 5.20s; }
+    .l23 { animation-delay: 5.48s; }
+    @keyframes reveal { to { opacity: 1; } }
+    .cursor {
+      fill: #3fb950;
+      opacity: 0;
+      animation: cursor-start .1s linear 5.9s forwards, blink 1s steps(2, start) 5.9s infinite;
+    }
+    @keyframes cursor-start { to { opacity: 1; } }
     @keyframes blink { to { visibility: hidden; } }
-    @keyframes appear { to { opacity: 1; } }
-    @keyframes vanish { to { opacity: 0; } }
-    .scan { fill: #3fb950; opacity: .035; animation: scan 8s linear infinite; }
-    @keyframes scan { from { transform: translateY(-15px); } to { transform: translateY(700px); } }
+    .scan { fill: #3fb950; opacity: .025; animation: scan 8s linear infinite; }
+    @keyframes scan { from { transform: translateY(-12px); } to { transform: translateY(510px); } }
     @media (prefers-reduced-motion: reduce) {
       .line { opacity: 1; animation: none; }
-      .cursor, .scan { animation: none; }
+      .cursor { opacity: 1; animation: none; }
+      .scan { animation: none; }
     }
   </style>
-  <rect class="bg" width="1000" height="760" rx="14"/>
-  <rect class="frame" x="1" y="1" width="998" height="758" rx="13"/>
-  <path class="bar" d="M14 1 H986 Q999 1 999 14 V53 H1 V14 Q1 1 14 1Z"/>
-  <path class="divider" d="M1 53 H999"/>
-  <circle cx="24" cy="27" r="5" fill="#8b949e"/>
-  <circle cx="42" cy="27" r="5" fill="#8b949e"/>
-  <circle cx="60" cy="27" r="5" fill="#3fb950"/>
-  <text x="500" y="31" class="white" text-anchor="middle" font-size="14" font-weight="600">Terminal</text>
-  <text x="965" y="31" class="muted small" text-anchor="end">ASTRA // SESSION 001</text>
-  <rect class="scan" x="2" y="55" width="996" height="15" rx="2"/>
 
-  <g class="line l1"><text x="28" y="88" class="green cmd">johanrohith@astra:~$ whoami</text></g>
-  <g class="line l2"><text x="28" y="115" class="white">Johan Rohith</text></g>
+  <rect class="bg" width="1000" height="570" rx="13"/>
+  <rect class="frame" x="1" y="1" width="998" height="568" rx="12"/>
+  <path class="bar" d="M13 1 H987 Q999 1 999 13 V44 H1 V13 Q1 1 13 1Z"/>
+  <path class="divider" d="M1 44 H999"/>
+  <circle cx="23" cy="23" r="4.5" fill="#8b949e"/>
+  <circle cx="40" cy="23" r="4.5" fill="#8b949e"/>
+  <circle cx="57" cy="23" r="4.5" fill="#3fb950"/>
+  <text x="500" y="28" class="white" text-anchor="middle" font-size="13" font-weight="600">Terminal</text>
+  <text x="970" y="27" class="muted small" text-anchor="end">ASTRA // SESSION 001</text>
+  <rect class="scan" x="2" y="46" width="996" height="12" rx="2"/>
 
-  <g class="line l3"><text x="28" y="157" class="green cmd">johanrohith@astra:~$ cat about.txt</text></g>
-  <g class="line l4"><text x="28" y="184" class="white">I explore ideas, build things and create beyond code.</text></g>
-  <g class="line l5"><text x="28" y="208" class="white">From web projects to creative stories,</text></g>
-  <g class="line l6"><text x="28" y="232" class="white">I'm always curious about what my idea can become.</text></g>
+  <g class="line l1"><text x="24" y="75" class="green cmd">johanrohith@astra:~$ whoami</text></g>
+  <g class="line l2"><text x="24" y="95" class="white">Johan Rohith</text></g>
 
-  <g class="line l7"><text x="28" y="274" class="green cmd">johanrohith@astra:~$ curl -s ipinfo.io | jq '{ip, city, country, timezone}'</text></g>
-  <g class="line l8"><text x="28" y="301" class="white">{</text></g>
-  <g class="line l9"><text x="52" y="325" class="white">"ip":       "127.0.0.1",</text></g>
-  <g class="line l10"><text x="52" y="349" class="white">"city":     "Chennai",</text></g>
-  <g class="line l11"><text x="52" y="373" class="white">"country":  "IN",</text></g>
-  <g class="line l12"><text x="52" y="397" class="white">"timezone": "Asia/Kolkata"</text></g>
-  <g class="line l13"><text x="28" y="421" class="white">}</text></g>
+  <g class="line l3"><text x="24" y="123" class="green cmd">johanrohith@astra:~$ cat about.txt</text></g>
+  <g class="line l4"><text x="24" y="143" class="white">I explore ideas, build things and create beyond code.</text></g>
+  <g class="line l5"><text x="24" y="161" class="white">From web projects to creative stories,</text></g>
+  <g class="line l6"><text x="24" y="179" class="white">I'm always curious about what my idea can become.</text></g>
 
-  <g class="line l14"><text x="28" y="463" class="green cmd">johanrohith@astra:~$ ls interests/</text></g>
-  <g class="line l15"><text x="28" y="490" class="white">creative-writing/</text></g>
-  <g class="line l16"><text x="28" y="514" class="white">web-development/</text></g>
+  <g class="line l7"><text x="24" y="207" class="green cmd">johanrohith@astra:~$ curl -s ipinfo.io | jq '{ip, city, country, timezone}'</text></g>
+  <g class="line l8"><text x="24" y="227" class="white">{</text></g>
+  <g class="line l9"><text x="44" y="245" class="white">"ip":       "127.0.0.1",</text></g>
+  <g class="line l10"><text x="44" y="263" class="white">"city":     "Chennai",</text></g>
+  <g class="line l11"><text x="44" y="281" class="white">"country":  "IN",</text></g>
+  <g class="line l12"><text x="44" y="299" class="white">"timezone": "Asia/Kolkata"</text></g>
+  <g class="line l13"><text x="24" y="317" class="white">}</text></g>
 
-  <g class="line l17"><text x="28" y="556" class="green cmd">johanrohith@astra:~$ cat ~/interests/web-development.txt</text></g>
-  <g class="line l18"><text x="28" y="583" class="white">[STACK] HTML · CSS · JavaScript · Java</text></g>
+  <g class="line l14"><text x="24" y="345" class="green cmd">johanrohith@astra:~$ ls interests/</text></g>
+  <g class="line l15"><text x="24" y="365" class="white">creative-writing/</text></g>
+  <g class="line l16"><text x="24" y="383" class="white">web-development/</text></g>
 
-  <g class="line l19"><text x="28" y="625" class="green cmd">johanrohith@astra:~$ echo $FOCUS</text></g>
-  <g class="line l20"><text x="28" y="652" class="white">Learn by building.</text></g>
-  <g class="line l21"><text x="28" y="676" class="white">Improve by exploring.</text></g>
-  <g class="line l22"><text x="28" y="708" class="green cmd">johanrohith@astra:~$ exit</text></g>
-  <g class="line l23"><text x="300" y="735" class="muted">[Process completed]</text></g>
-  <rect class="cursor" x="264" y="696" width="9" height="16" rx="1">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
+  <g class="line l17"><text x="24" y="411" class="green cmd">johanrohith@astra:~$ cat ~/interests/web-development.txt</text></g>
+  <g class="line l18"><text x="24" y="431" class="white">[STACK] HTML · CSS · JavaScript · Java</text></g>
+
+  <g class="line l19"><text x="24" y="459" class="green cmd">johanrohith@astra:~$ echo $FOCUS</text></g>
+  <g class="line l20"><text x="24" y="479" class="white">Learn by building.</text></g>
+  <g class="line l21"><text x="24" y="497" class="white">Improve by exploring.</text></g>
+
+  <g class="line l22"><text x="24" y="525" class="green cmd">johanrohith@astra:~$ exit</text></g>
+  <g class="line l23"><text x="24" y="545" class="muted small">[Process completed]</text></g>
+  <rect class="cursor" x="153" y="534" width="8" height="14" rx="1"/>
 </svg>
