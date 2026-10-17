@@ -41,12 +41,12 @@
 <text x="28" y="228" class="white typed" font-size="21" style="animation: typing 0.456s steps(38, end) 2.528s both;">From web projects to creative stories,</text>
 <text x="28" y="256" class="white typed" font-size="21" style="animation: typing 0.588s steps(49, end) 3.144s both;">I'm always curious about what my idea can become.</text>
 <text x="28" y="306" class="green cmd typed" font-size="21" style="animation: typing 0.900s steps(75, end) 3.892s both;">johanrohith@astra:~$ curl -s ipinfo.io | jq '{ip, city, country, timezone}'</text>
-<text x="28" y="336" class="white typed" font-size="21" style="animation: typing 0.220s steps(1, end) 4.952s both;">  { hello  djdjdjdjdkd</text>
+<text x="28" y="364" class="white typed" font-size="21" style="animation: typing 0.312s steps(26, end) 5.332s both;">{</text>
 <text x="28" y="364" class="white typed" font-size="21" style="animation: typing 0.312s steps(26, end) 5.332s both;">  "ip":       "127.0.0.1",</text>
 <text x="28" y="392" class="white typed" font-size="21" style="animation: typing 0.288s steps(24, end) 5.804s both;">  "city":     "Chennai",</text>
 <text x="28" y="420" class="white typed" font-size="21" style="animation: typing 0.228s steps(19, end) 6.252s both;">  "country":  "IN",</text>
 <text x="28" y="448" class="white typed" font-size="21" style="animation: typing 0.336s steps(28, end) 6.640s both;">  "timezone": "Asia/Kolkata"</text>
-<text x="28" y="476" class="white typed" font-size="21" style="animation: typing 0.220s steps(1, end) 7.136s both;">   }</text>
+<text x="28" y="364" class="white typed" font-size="21" style="animation: typing 0.312s steps(26, end) 5.332s both;">}</text>
 <text x="28" y="526" class="green cmd typed" font-size="21" style="animation: typing 0.408s steps(34, end) 7.516s both;">johanrohith@astra:~$ ls interests/</text>
 <text x="28" y="556" class="white typed" font-size="21" style="animation: typing 0.220s steps(17, end) 8.084s both;">creative-writing/</text>
 <text x="28" y="584" class="white typed" font-size="21" style="animation: typing 0.220s steps(16, end) 8.464s both;">web-development/</text>
