@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal-intro.svg" alt="Animated terminal introduction for Johan Rohith" width="100%" />
+<img src="assets/terminal-intro.gif" alt="Animated terminal introduction for Johan Rohith" width="100%" />
 
 </div>
 
