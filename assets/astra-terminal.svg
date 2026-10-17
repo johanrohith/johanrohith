@@ -32,13 +32,10 @@
 <circle cx="25" cy="28" r="5" fill="#8b949e"/>
 <circle cx="44" cy="28" r="5" fill="#8b949e"/>
 <circle cx="63" cy="28" r="5" fill="#3fb950"/>
-<text x="500" y="34" class="white" text-anchor="middle" font-size="17" font-weight="600">Terminal</text>
-<text x="974" y="32" class="muted" text-anchor="end" font-size="13">ASTRA // SESSION 001</text>
 <text x="28" y="336" class="white typed" font-size="21" style="animation: typing 0.220s steps(1, end) 4.952s both;">{</text>
 <text x="28" y="364" class="white typed" font-size="21" style="animation: typing 0.312s steps(26, end) 5.332s both;">  "ip":       "127.0.0.1",</text>
 <text x="28" y="392" class="white typed" font-size="21" style="animation: typing 0.288s steps(24, end) 5.804s both;">  "city":     "Chennai",</text>
 <text x="28" y="420" class="white typed" font-size="21" style="animation: typing 0.228s steps(19, end) 6.252s both;">  "country":  "IN",</text>
 <text x="28" y="448" class="white typed" font-size="21" style="animation: typing 0.336s steps(28, end) 6.640s both;">  "timezone": "Asia/Kolkata"</text>
-<text x="28" y="476" class="white typed" font-size="21" style="animation: typing 0.220s steps(1, end) 7.136s both;">}</text>
-<rect class="cursor" x="254" y="835" width="11" height="21" rx="1"/>
+<text x="28" y="476" class="white typed" font-size="21" style="animation: typing 0.220s steps(1, end) 7.136s both;">}</text><rect class="cursor" x="254" y="835" width="11" height="21" rx="1"/>
 </svg>
