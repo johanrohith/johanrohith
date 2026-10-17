@@ -1,7 +1,6 @@
-<a id="about"></a>
 <div align="center">
 
-<img src="assets/terminal-intro.svg" alt="Johan Rohith's Astra terminal introduction" width="100%" />
+<img src="assets/astra-terminal.svg" alt="Johan Rohith's static Astra terminal introduction" width="100%" />
 
 </div>
 
@@ -13,12 +12,9 @@
 
 ```text
 /
-├─ about
 ├─ projects
 └─ network
 ```
-
-[**/about**](#about)
 
 [**/projects**](#projects)
 
@@ -34,54 +30,35 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<a href="https://github.com/johanrohith/forest-explorer"><img src="assets/forest-explorer.svg" alt="Forest Explorer" width="100%"/></a>
-
-**[Forest Explorer ↗](https://github.com/johanrohith/forest-explorer)**
-
+<a href="https://github.com/johanrohith/forest-explorer"><img src="https://raw.githubusercontent.com/johanrohith/forest-explorer/main/assets/forest-explorer-readme-banner.svg" alt="Forest Explorer original repository banner" width="120"/></a><br/>
+<strong><a href="https://github.com/johanrohith/forest-explorer">Forest Explorer ↗</a></strong><br/>
 <sub>A quiet forest to explore.</sub>
-
 </td>
 <td width="50%" valign="top">
-
-<a href="https://eco-count.github.io/"><img src="assets/eco-count.svg" alt="Eco Count" width="100%"/></a>
-
-**[Eco Count ↗](https://eco-count.github.io/)**
-
+<a href="https://eco-count.github.io/"><img src="https://raw.githubusercontent.com/johanrohith/eco-count/main/assets/eco-count-readme-banner.svg" alt="Eco Count original repository banner" width="120"/></a><br/>
+<strong><a href="https://eco-count.github.io/">Eco Count ↗</a></strong><br/>
 <sub>Count plastic. Rethink waste.</sub>
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-<a href="https://github.com/johanrohith/terrawise"><img src="assets/terrawise.svg" alt="Terrawise" width="100%"/></a>
-
-**[Terrawise ↗](https://github.com/johanrohith/terrawise)**
-
+<a href="https://github.com/johanrohith/terrawise"><img src="https://raw.githubusercontent.com/johanrohith/terrawise/main/assets/terrawise-readme-banner.svg" alt="Terrawise original repository banner" width="120"/></a><br/>
+<strong><a href="https://github.com/johanrohith/terrawise">Terrawise ↗</a></strong><br/>
 <sub>Soils, crops, and Indian agriculture.</sub>
-
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/johanrohith/liora"><img src="assets/liora.svg" alt="Liora" width="100%"/></a>
-
-**[Liora ↗](https://github.com/johanrohith/liora)**
-
+<a href="https://github.com/johanrohith/liora"><img src="https://raw.githubusercontent.com/johanrohith/liora/main/assets/readme/liora-readme-banner.svg" alt="Liora original repository banner" width="120"/></a><br/>
+<strong><a href="https://github.com/johanrohith/liora">Liora ↗</a></strong><br/>
 <sub>A personal space for everyday tools.</sub>
-
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
-
-<a href="https://johanrohith.me/mccreloop"><img src="assets/mcc-reloop.svg" alt="MCC ReLoop" width="100%"/></a>
-
-**[MCC ReLoop ↗](https://johanrohith.me/mccreloop)**
-
+<td width="50%" valign="top">
+<a href="https://github.com/johanrohith/mccreloop"><img src="https://raw.githubusercontent.com/johanrohith/mccreloop/main/images/reloop-readme-banner.svg" alt="MCC ReLoop original repository banner" width="120"/></a><br/>
+<strong><a href="https://github.com/johanrohith/mccreloop">MCC ReLoop ↗</a></strong><br/>
 <sub>A campus reuse project: waste less, loop more.</sub>
-
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
