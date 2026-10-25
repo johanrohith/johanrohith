@@ -31,13 +31,21 @@
 
 <hr/>
 
-<p><strong>FIND ME ELSEWHERE</strong></p>
 
-[![X](https://img.shields.io/badge/X-%40johanrohith-0d1117?style=flat&logo=x&logoColor=white)](https://x.com/johanrohith)
-[![Instagram](https://img.shields.io/badge/Instagram-johanrohith-0d1117?style=flat&logo=instagram&logoColor=white)](https://instagram.com/johanrohith)
-[![YouTube](https://img.shields.io/badge/YouTube-%40johanrohith-0d1117?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@johanrohith)
+<p align="center"><strong>FIND ME ELSEWHERE</strong></p>
 
-<div align="center">
+<p align="center">
+  <a href="https://x.com/johanrohith">
+    <img src="https://img.shields.io/badge/@johanrohith-000000?style=for-the-badge&logo=x&logoColor=white" alt="X - @johanrohith" />
+  </a>
+  <a href="https://instagram.com/johanrohith">
+    <img src="https://img.shields.io/badge/johanrohith-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - johanrohith" />
+  </a>
+  <a href="https://youtube.com/@johanrohith">
+    <img src="https://img.shields.io/badge/@johanrohith-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube - @johanrohith" />
+  </a>
+</p>
+
 
 <sub>`johanrohith@astra:~$` — made with curiosity.</sub>
 
