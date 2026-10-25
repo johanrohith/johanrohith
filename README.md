@@ -32,11 +32,11 @@
 <hr/>
 
 <p><strong>FIND ME ELSEWHERE</strong></p>
-<center>
+
 [![X](https://img.shields.io/badge/X-%40johanrohith-0d1117?style=flat&logo=x&logoColor=white)](https://x.com/johanrohith)
 [![Instagram](https://img.shields.io/badge/Instagram-johanrohith-0d1117?style=flat&logo=instagram&logoColor=white)](https://instagram.com/johanrohith)
 [![YouTube](https://img.shields.io/badge/YouTube-%40johanrohith-0d1117?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@johanrohith)
-</center>
+
 <div align="center">
 
 <sub>`johanrohith@astra:~$` — made with curiosity.</sub>
