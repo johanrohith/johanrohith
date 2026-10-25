@@ -46,7 +46,4 @@
   </a>
 </p>
 
-
-<sub>`johanrohith@astra:~$` — made with curiosity.</sub>
-
 </div>
