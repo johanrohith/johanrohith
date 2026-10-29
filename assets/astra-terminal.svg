@@ -11,7 +11,10 @@
   text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 21px; }
   .cmd { font-weight: 600; }
   /* Critical: start hidden during each line's delay; keep revealed text afterwards. */
-  .typed { clip-path: inset(0 100% 0 0); }
+ .typed {
+  clip-path: inset(0 100% 0 0);
+  animation-fill-mode: forwards;
+}
   @keyframes typing { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }
   .cursor {
     fill: #3fb950;
