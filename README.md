@@ -32,18 +32,12 @@
 <hr/>
 
 
-<p align="center"><strong>FIND ME ELSEWHERE</strong></p>
+<p align="center"><b>FIND ME ELSEWHERE</b></p>
 
 <p align="center">
-  <a href="https://x.com/johanrohith">
-    <img src="https://img.shields.io/badge/@johanrohith-000000?style=for-the-badge&logo=x&logoColor=white" alt="X - @johanrohith" />
-  </a>
-  <a href="https://instagram.com/johanrohith">
-    <img src="https://img.shields.io/badge/johanrohith-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - johanrohith" />
-  </a>
-  <a href="https://youtube.com/@johanrohith">
-    <img src="https://img.shields.io/badge/@johanrohith-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube - @johanrohith" />
-  </a>
+  <a href="https://x.com/johanrohith"><img src="assets/social-x.svg" height="44" alt="X"></a>
+  &nbsp;
+  <a href="https://instagram.com/johanrohith"><img src="assets/social-instagram.svg" height="44" alt="Instagram"></a>
+  &nbsp;
+  <a href="https://youtube.com/@johanrohith"><img src="assets/social-youtube.svg" height="44" alt="YouTube"></a>
 </p>
-
-</div>
