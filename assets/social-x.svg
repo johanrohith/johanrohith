@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="254" height="68" viewBox="-2 -2 254 68" role="img" aria-label="@johanrohith">
+  <defs>
+    <linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="pill"><rect width="250" height="64" rx="32"/></clipPath>
+  </defs>
+  <style>
+    .sheen { animation: sheen 6s ease-in-out 1.2s infinite; }
+    @keyframes sheen { 0% { transform: translateX(-80px); } 35%,100% { transform: translateX(310px); } }
+    .ring { transform-origin: 32px 32px; animation: ring 4s ease-out infinite; }
+    @keyframes ring { 0% { transform: scale(1); opacity: .45; } 70%,100% { transform: scale(1.35); opacity: 0; } }
+  </style>
+  <rect width="250" height="64" rx="32" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <g clip-path="url(#pill)"><rect class="sheen" width="46" height="64" fill="url(#sh)" transform="skewX(-18)"/></g>
+  <circle class="ring" cx="32" cy="32" r="22" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="32" cy="32" r="22" fill="#fff"/>
+  <path transform="translate(23.4 23.4) scale(.72)" fill="#0f1419" d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/>
+  <text x="70" y="40" fill="#e6edf3" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="600" textLength="150" lengthAdjust="spacingAndGlyphs">@johanrohith</text>
+</svg>
